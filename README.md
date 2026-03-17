@@ -1,5 +1,5 @@
-#🎮 Rock Paper Scissors Game
-📌 Overview
+**##🎮 Rock Paper Scissors Game**
+**📌 Overview**
 
 This is a fun and interactive Rock Paper Scissors web game built using HTML, CSS, and JavaScript. The player selects a weapon (Rock, Paper, or Scissors) and competes against the computer. The game keeps track of wins, losses, and draws in real time.
 
@@ -18,9 +18,12 @@ This is a fun and interactive Rock Paper Scissors web game built using HTML, CSS
 📱 Responsive design for different screen sizes
 
 **🛠️ Technologies Used**
-HTML
-CSS3
-JavaScript
+ HTML
+ 
+ CSS3
+ 
+ JavaScript
+
 
 **🎮 How to Play**
 Select your weapon (Rock, Paper, or Scissors)
@@ -38,8 +41,11 @@ The result will be displayed:
    Scores update automatically
    
    Click Play Again to restart
+   
 **OR**
+
 Use the link below:
+
 link : https://rocpapsci-baklava-31f32c.netlify.app/
    
 

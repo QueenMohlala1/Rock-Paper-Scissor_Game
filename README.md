@@ -1,4 +1,4 @@
-**##🎮 Rock Paper Scissors Game**
+#🎮 Rock Paper Scissors Game
 **📌 Overview**
 
 This is a fun and interactive Rock Paper Scissors web game built using HTML, CSS, and JavaScript. The player selects a weapon (Rock, Paper, or Scissors) and competes against the computer. The game keeps track of wins, losses, and draws in real time.
@@ -17,7 +17,9 @@ This is a fun and interactive Rock Paper Scissors web game built using HTML, CSS
 
 📱 Responsive design for different screen sizes
 
+
 **🛠️ Technologies Used**
+
  HTML
  
  CSS3
@@ -26,6 +28,7 @@ This is a fun and interactive Rock Paper Scissors web game built using HTML, CSS
 
 
 **🎮 How to Play**
+
 Select your weapon (Rock, Paper, or Scissors)
 
 The computer will randomly choose its weapon

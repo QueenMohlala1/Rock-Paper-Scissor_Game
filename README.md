@@ -24,11 +24,11 @@ This is a fun and interactive Rock Paper Scissors web game built using HTML, CSS
 
 **🛠️ Technologies Used**
 
- HTML
+ >HTML
  
- CSS3
+ >CSS3
  
- JavaScript
+ >JavaScript
 
 
 **🎮 How to Play**
@@ -39,15 +39,15 @@ The computer will randomly choose its weapon
 
 The result will be displayed:
 
-   Rock beats Scissors
+   >Rock beats Scissors
    
-   Paper beats Rock
+   >Paper beats Rock
    
-   Scissors beats Paper
+   >Scissors beats Paper
    
-   Scores update automatically
+   >Scores update automatically
    
-   Click Play Again to restart
+   >Click Play Again to restart
    
 **OR**
 
